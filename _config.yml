@@ -1,11 +1,11 @@
 # Basic
-title: 伯言连营
+title: 潘世民的技术博客
 #subtitle: 上善若水，人淡如菊
 #welcome_message: <a href="http://swifter.tips" target="_blank">Swifter.tips - 我维护的 Swift 使用技巧分享网站，每周三更新，欢迎访问</a>
-description: 我是张立池，一个iOS开发者，正在成长，欢迎指教。
+description: 我是潘世民，一个iOS开发者，正在成长，欢迎指教。
 #creator: <a href="http://onev.cat">@onevcat</a>
 
-url: "http://zhanglichi.com"
+url: "http://panshimin.com"
 
 permalink: /:year/:month/:title/
 
@@ -35,14 +35,14 @@ paginate_path: "page/:num/"
 # Comment
 comment:
 #    disqus: onevcat
-     duoshuo: zhanglichi
+     duoshuo: 潘世民
 # Social
 social:
-    weibo: 伯言连营
-    github: zhanglichi
+    weibo: 直捣南京
+    github: panshimin
 #    twitter: onevcat
 #    gplus: 107108267983477358170
-    mail: zhanglichi1991@163.com
+    mail: panshimin111@163.com
 
 # Google Analytics
 #ga:
